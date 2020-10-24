@@ -1,9 +1,28 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render correctly 1`] = `
-<main>
-  <h2>
-    Abner fonseca
+<main
+  class="styles__Wrapper-sc-1cs6c8-0 ljFJSr"
+>
+  <img
+    alt="imagem de um àtomo do react avançado"
+    class="styles__Logo-sc-1cs6c8-3 dAsSde"
+    src="/img/logo.svg"
+  />
+  <h1
+    class="styles__Title-sc-1cs6c8-1 jknDyF"
+  >
+    Abner Fonseca
+  </h1>
+  <h2
+    class="styles__Subtitle-sc-1cs6c8-2 geQFju"
+  >
+    Poc de Typescript, styled-components, Reactjs, NextJs
   </h2>
+  <img
+    alt="um desenvolvedor olhando para tela do computador"
+    class="styles__Ilustrator-sc-1cs6c8-4 fFTUUB"
+    src="/img/illustration.svg"
+  />
 </main>
 `
