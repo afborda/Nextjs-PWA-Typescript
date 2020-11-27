@@ -2,26 +2,26 @@
 
 exports[`<Main /> should render correctly 1`] = `
 <main
-  class="styles__Wrapper-sc-1cs6c8-0 ljFJSr"
+  class="styles__Wrapper-sc-1qrkey8-0 jeLfuH"
 >
   <img
     alt="imagem de um àtomo do react avançado"
-    class="styles__Logo-sc-1cs6c8-3 dAsSde"
+    class="styles__Logo-sc-1qrkey8-3 fawfXS"
     src="/img/logo.svg"
   />
   <h1
-    class="styles__Title-sc-1cs6c8-1 jknDyF"
+    class="styles__Title-sc-1qrkey8-1 eXCKpt"
   >
     Abner Fonseca
   </h1>
   <h2
-    class="styles__Subtitle-sc-1cs6c8-2 geQFju"
+    class="styles__Subtitle-sc-1qrkey8-2 fdqClS"
   >
     Poc de Typescript, styled-components, Reactjs, NextJs
   </h2>
   <img
     alt="um desenvolvedor olhando para tela do computador"
-    class="styles__Ilustrator-sc-1cs6c8-4 fFTUUB"
+    class="styles__Ilustrator-sc-1qrkey8-4 gilZoB"
     src="/img/illustration.svg"
   />
 </main>
